@@ -1,5 +1,5 @@
-var dataCacheName = 'healthCareData-v1';
-var cacheName = 'healthCarePWA-v1';
+var dataCacheName = 'healthCareData-v2';
+var cacheName = 'healthCarePWA-v2';
 var filesToCache = [
     '/',
     '/index.html',
