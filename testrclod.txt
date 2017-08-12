@@ -1,0 +1,21 @@
+{
+id: "e772bb52",
+name: "WIDGET1",
+key: "1197b4697b20039e75c52fd18d006227",
+type: "streams-line",
+created: "2017-08-11T15:32:20.334Z",
+updated: "2017-08-11T15:32:20.334Z",
+sources: [
+{
+device: "4b7fd3e682ccc29656fbb76baf6cc2c3",
+stream: "pulse",
+links: {
+self: "https://api-m2x.att.com/v2/devices/4b7fd3e682ccc29656fbb76baf6cc2c3/streams/pulse",
+device: "https://api-m2x.att.com/v2/devices/4b7fd3e682ccc29656fbb76baf6cc2c3",
+stats: "https://api-m2x.att.com/v2/devices/4b7fd3e682ccc29656fbb76baf6cc2c3/streams/pulse/stats",
+values: "https://api-m2x.att.com/v2/devices/4b7fd3e682ccc29656fbb76baf6cc2c3/streams/pulse/values",
+sampling: "https://api-m2x.att.com/v2/devices/4b7fd3e682ccc29656fbb76baf6cc2c3/streams/pulse/sampling"
+}
+}
+]
+}
