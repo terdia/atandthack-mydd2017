@@ -1,5 +1,1 @@
-sudo pip install -t lib -r requirements.txt
-
-
-sudo pip install pycrypto
-sudo pip install -t lib block-io
+THIS PROJECT IS THE SMART HEALTH CARE SYSTEM, USING LAUNCHPAD BOARD, M2X IOT, AND HEART PULSE SEONSOR, INTEGRATED WITH CHATBOT, DEVELOPED USING AIRTIFICIAL  AND MACHINE LEARNING, 
